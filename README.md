@@ -15,7 +15,7 @@
 
 | Category     | Software                                              |
 | ------------ | ----------------------------------------------------- |
-| Input Method | 小鹤双拼方案                                          |
+| Input Method | [小鹤双拼方案](assets/flypy.reg)                      |
 | Main Browser | Firefox                                               |
 | Key Mapping  | PowerToys                                             |
 | Cloud Sync   | MEGA                                                  |
@@ -42,7 +42,7 @@
 | Live Wallpaper    | Muzei Live Wallpaper |
 | File Manager      | MiXplorer            |
 | Music Player      | Vinyl Music Player   |
-| Ad Blocking       | 跳过广告             |
+| Ad Skipper        | 跳过广告             |
 | Weather           | Breezy Weather       |
 | 2FA               | Aegis Authenticator  |
 | VPN Client        | 1.1.1.1 + WARP       |
@@ -98,8 +98,7 @@
 ### Python
 
 ```shell
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-$env:Path = "C:\Users\uigle\.cargo\bin;$env:Path"
+winget install -e --id=astral-sh.uv
 uv python install 3.12
 ```
 
