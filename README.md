@@ -13,27 +13,28 @@
 
 ### Windows
 
-| Category     | Software                                              |
-| ------------ | ----------------------------------------------------- |
-| Input Method | [小鹤双拼方案](assets/flypy.reg)                      |
-| Main Browser | Firefox                                               |
-| Key Mapping  | PowerToys                                             |
-| Cloud Sync   | MEGA                                                  |
-| Compression  | 7-Zip                                                 |
-| Dir Encrypt  | Cryptomator                                           |
-| Translation  | Crow Translate                                        |
-| Gaming       | Steam                                                 |
-| Uninstaller  | Bulk Crap Uninstaller                                 |
-| Dir Sync     | [FreeFileSync](https://freefilesync.org/download.php) |
-| Note Taking  | Anytype                                               |
-| VPN Client   | Cloudflare WARP                                       |
-| Code Editor  | Visual Studio Code                                    |
-| Video Player | mpv.net                                               |
-| Music Player | Clementine                                            |
-| Torrent      | qBittorrent Enhanced                                  |
-| Downloader   | Motrix                                                |
-| Font Render  | MacType                                               |
-| Phone Link   | KDEConnect                                            |
+| Category     | Software                                                           |
+| ------------ | ------------------------------------------------------------------ |
+| Input Method | [小鹤双拼方案](assets/flypy.reg)                                   |
+| Main Browser | Firefox                                                            |
+| Key Mapping  | PowerToys                                                          |
+| Cloud Sync   | MEGA                                                               |
+| Compression  | 7-Zip                                                              |
+| Dir Encrypt  | Cryptomator                                                        |
+| Translation  | Crow Translate                                                     |
+| Gaming       | Steam                                                              |
+| Uninstaller  | Bulk Crap Uninstaller                                              |
+| Dir Sync     | [FreeFileSync](https://freefilesync.org/download.php)              |
+| Note Taking  | Anytype                                                            |
+| VPN Client   | Cloudflare WARP                                                    |
+| Code Editor  | Visual Studio Code                                                 |
+| Video Player | mpv.net                                                            |
+| Music Player | Clementine                                                         |
+| Torrent      | qBittorrent Enhanced                                               |
+| Downloader   | Motrix                                                             |
+| Font Render  | MacType                                                            |
+| Phone Link   | KDEConnect                                                         |
+| Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest) |
 
 ### Android
 
@@ -193,6 +194,20 @@ fullscreen=yes
 idle=once
 save-position-on-quit=yes
 ```
+
+### Windows Optimizer
+
+- General
+  - System
+    - Optimize Performance
+    - Disable Error Reporting
+    - Disable Sticky Keys
+  - Apps
+  - Privacy
+- Windows 11
+  - Windows Update
+  - Privacy
+    - All except Enhance Privacy
 
 ## 📄 License
 
