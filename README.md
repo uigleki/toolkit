@@ -203,6 +203,7 @@ save-position-on-quit=yes
     - Disable Error Reporting
     - Disable Sticky Keys
   - Apps
+    - All except Mozilla
   - Privacy
 - Windows 11
   - Windows Update
