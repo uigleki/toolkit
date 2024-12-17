@@ -4,10 +4,10 @@
 
 ## ✨ Features
 
-- Curated software recommendations for Windows, Android, and Linux
-- Browser extensions for enhanced web experience
-- Development environment setup guide
-- Essential application configurations
+- Open source first, privacy focused
+- Simple yet powerful configurations
+- Focus on efficiency and stability
+- Based on my [tool selection criteria](criteria\README.md)
 
 ## Software List
 
@@ -58,7 +58,6 @@
 
 | Category        | Software    |
 | --------------- | ----------- |
-| OS              | NixOS       |
 | Version Control | Git         |
 | English Font    | Ubuntu font |
 | Fast Compress   | lz4         |
