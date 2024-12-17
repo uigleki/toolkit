@@ -7,7 +7,7 @@
 - Open source first, privacy focused
 - Simple yet powerful configurations
 - Focus on efficiency and stability
-- Based on my [tool selection criteria](criteria\README.md)
+- Based on my [tool selection criteria](criteria/README.md)
 
 ## Software List
 
