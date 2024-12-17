@@ -46,8 +46,6 @@
 | Ad Skipper        | 跳过广告             |
 | Weather           | Breezy Weather       |
 | 2FA               | Aegis Authenticator  |
-| VPN Client        | 1.1.1.1 + WARP       |
-| Cloud Sync        | MEGA                 |
 | Music Recognition | Shazam               |
 | Dictionary        | 欧路词典             |
 | Terminal          | Termux               |
@@ -56,15 +54,14 @@
 
 ### Linux
 
-| Category        | Software    |
-| --------------- | ----------- |
-| Version Control | Git         |
-| English Font    | Ubuntu font |
-| Fast Compress   | lz4         |
-| High Compress   | zstd        |
-| Text Editor     | helix       |
-| File Manager    | yazi        |
-| IM              | Matrix      |
+| Category      | Software    |
+| ------------- | ----------- |
+| English Font  | Ubuntu font |
+| Fast Compress | lz4         |
+| High Compress | zstd        |
+| Text Editor   | helix       |
+| File Manager  | yazi        |
+| IM            | Matrix      |
 
 ### Browser Extensions
 
