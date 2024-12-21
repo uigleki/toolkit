@@ -96,7 +96,7 @@
 
 ```shell
 winget install -e --id=astral-sh.uv
-uv python install 3.12
+uv python install 3.11
 ```
 
 ### VS Code
