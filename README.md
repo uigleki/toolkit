@@ -138,6 +138,9 @@ Sync Settings Only (avoid syncing other options)
   "extensions.ignoreRecommendations": true,
   "files.eol": "\n",
   "telemetry.telemetryLevel": "off",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+
   "workbench.colorTheme": "Default Light Modern",
   "workbench.iconTheme": "material-icon-theme",
   "continue.enableTabAutocomplete": false,
@@ -162,6 +165,7 @@ Sync Settings Only (avoid syncing other options)
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "python.defaultInterpreterPath": ".venv/Scripts/python",
+  "jupyter.askForKernelRestart": false,
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
