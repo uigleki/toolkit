@@ -43,7 +43,6 @@
 | Live Wallpaper    | Muzei Live Wallpaper |
 | File Manager      | MiXplorer            |
 | Music Player      | Vinyl Music Player   |
-| Ad Skipper        | 跳过广告             |
 | Weather           | Breezy Weather       |
 | 2FA               | Aegis Authenticator  |
 | Music Recognition | Shazam               |
@@ -57,8 +56,9 @@
 | Category      | Software    |
 | ------------- | ----------- |
 | English Font  | Ubuntu font |
-| Fast Compress | lz4         |
 | High Compress | zstd        |
+| Fast Compress | lz4         |
+| Shell         | fish        |
 | Text Editor   | helix       |
 | File Manager  | yazi        |
 | IM            | Matrix      |
