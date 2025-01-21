@@ -35,6 +35,7 @@
 | Font Render  | MacType                                                            |
 | Phone Link   | KDEConnect                                                         |
 | Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest) |
+| Net Speed    | TrafficMonitor                                                     |
 
 ### Android
 
@@ -105,8 +106,8 @@ uv python install 3.11
 
 General:
 
-1. esbenp.prettier-vscode
-2. Tyriar.sort-lines
+1. Tyriar.sort-lines
+2. esbenp.prettier-vscode
 3. yzhang.markdown-all-in-one
 4. supermaven.supermaven
 
@@ -118,15 +119,18 @@ Local Only:
 
 Python:
 
-1. ms-python.python
-2. ms-toolsai.jupyter
-3. charliermarsh.ruff
+- charliermarsh.ruff
+- ms-python.python
+- ms-toolsai.jupyter
 
 Miscellaneous:
 
-1. mechatroner.rainbow-csv
-2. tamasfe.even-better-toml
-3. ms-dotnettools.csdevkit
+- jnoortheen.nix-ide
+- mads-hartmann.bash-ide-vscode
+- mechatroner.rainbow-csv
+- mkhl.direnv
+- ms-dotnettools.csdevkit
+- tamasfe.even-better-toml
 
 #### Settings
 
