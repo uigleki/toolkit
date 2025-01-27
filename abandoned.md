@@ -1,13 +1,32 @@
 # Abandoned Tools & Why
 
-## GitUI
+## Desktop
+
+### Logseq
+
+- Orphaned images remain after page deletion
+- No built-in way to detect or clean orphaned media files
+- Manual cleanup required for deleted page attachments
+
+### AppFlowy
+
+vs anytype
+
+- Critical sync issues between desktop and mobile
+- Mobile notes can become completely empty without warning
+- Data recovery depends on desktop version availability
+- Previously documented iOS sync issues remain unfixed
+
+## Terminal
+
+### GitUI
 
 vs lazygit
 
 - Requires numeric keys (1-5) to switch panels
 - Uses arrow keys instead of hjkl for navigation by default
 
-## Neovim
+### Neovim
 
 vs helix
 
@@ -16,22 +35,22 @@ vs helix
 - Treesitter may freeze during compilation
 - If you want to use it, use LazyVim plugin to save unnecessary configuration time
 
-## Nushell
+### Nushell
 
 vs fish
 
 - No ghost text suggestions for commands
 - Focuses on structured output while neglecting basic shell interactions
 
-## Skim
+### Skim
 
 vs fzf
 
-- Noticeably slower with large datasets
-- Higher memory consumption
-- Less optimized implementation
+- Performs worse than fzf in all benchmarks
+- Core design less optimized than fzf
+- Author acknowledges issues but abandoned improvements
 
-## Zellij
+### Zellij
 
 vs tmux
 
