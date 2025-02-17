@@ -216,4 +216,4 @@ save-position-on-quit=yes
 
 ## 📄 License
 
-[AGPL-3.0](LICENSE)
+[CC BY-SA 4.0](LICENSE)
