@@ -1,4 +1,6 @@
-# Tool Selection Criteria
+# Tool Selection Framework
+
+A systematic approach to evaluating and selecting tools based on long-term value.
 
 ## Why Open Source First
 

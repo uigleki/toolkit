@@ -1,5 +1,7 @@
 # Abandoned Tools & Why
 
+Documenting specific issues with abandoned tools to prevent future reconsideration.
+
 ## Desktop
 
 ### Logseq
