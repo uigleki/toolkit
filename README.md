@@ -32,7 +32,7 @@
 | Music Player | Clementine                                                         |
 | Torrent      | qBittorrent Enhanced                                               |
 | Downloader   | Motrix                                                             |
-| Font Render  | MacType                                                            |
+| Font Render  | [MacType](https://github.com/snowie2000/mactype/releases/latest)   |
 | Phone Link   | KDEConnect                                                         |
 | Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest) |
 | Net Speed    | TrafficMonitor                                                     |
