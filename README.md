@@ -36,6 +36,7 @@
 | Phone Link   | KDEConnect                                                         |
 | Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest) |
 | Net Speed    | TrafficMonitor                                                     |
+| WSL          | [Ubuntu](https://apps.microsoft.com/detail/9PDXGNCFSCZV)           |
 
 ### Android
 
