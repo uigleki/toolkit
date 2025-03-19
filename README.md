@@ -111,6 +111,7 @@ General:
 2. esbenp.prettier-vscode
 3. yzhang.markdown-all-in-one
 4. supermaven.supermaven
+5. GitHub.copilot
 
 Local Only:
 
@@ -131,6 +132,7 @@ Miscellaneous:
 - mechatroner.rainbow-csv
 - mkhl.direnv
 - ms-dotnettools.csdevkit
+- ms-vscode-remote.remote-wsl
 - tamasfe.even-better-toml
 
 #### Settings
@@ -148,6 +150,8 @@ Sync Settings Only (avoid syncing other options)
 
   "workbench.colorTheme": "Default Light Modern",
   "workbench.iconTheme": "material-icon-theme",
+  "github.copilot.editor.enableAutoCompletions": false,
+  "supermaven.otherWarning": false,
   "continue.enableTabAutocomplete": false,
   "continue.showInlineTip": false,
 
