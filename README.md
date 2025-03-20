@@ -116,8 +116,6 @@ General:
 Local Only:
 
 1. PKief.material-icon-theme
-2. GitHub.codespaces
-3. Continue.continue
 
 Python:
 
@@ -127,6 +125,7 @@ Python:
 
 Miscellaneous:
 
+- GitHub.codespaces
 - jnoortheen.nix-ide
 - mads-hartmann.bash-ide-vscode
 - mechatroner.rainbow-csv
@@ -152,8 +151,6 @@ Sync Settings Only (avoid syncing other options)
   "workbench.iconTheme": "material-icon-theme",
   "github.copilot.editor.enableAutoCompletions": false,
   "supermaven.otherWarning": false,
-  "continue.enableTabAutocomplete": false,
-  "continue.showInlineTip": false,
 
   "editor.cursorBlinking": "solid",
   "files.autoSave": "afterDelay",
