@@ -107,15 +107,16 @@ uv python install 3.11
 
 General:
 
-1. Tyriar.sort-lines
+1. tyriar.sort-lines
 2. esbenp.prettier-vscode
 3. yzhang.markdown-all-in-one
 4. supermaven.supermaven
-5. GitHub.copilot
+5. github.copilot
 
 Local Only:
 
-1. PKief.material-icon-theme
+1. pkief.material-icon-theme
+2. continue.continue
 
 Python:
 
@@ -125,7 +126,7 @@ Python:
 
 Miscellaneous:
 
-- GitHub.codespaces
+- github.codespaces
 - jnoortheen.nix-ide
 - mads-hartmann.bash-ide-vscode
 - mechatroner.rainbow-csv
@@ -149,6 +150,8 @@ Sync Settings Only (avoid syncing other options)
 
   "workbench.colorTheme": "Default Light Modern",
   "workbench.iconTheme": "material-icon-theme",
+  "continue.enableTabAutocomplete": false,
+  "continue.showInlineTip": false,
   "github.copilot.editor.enableAutoCompletions": false,
   "supermaven.otherWarning": false,
 
