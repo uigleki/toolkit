@@ -12,7 +12,7 @@ Documenting specific issues with abandoned tools to prevent future reconsiderati
 
 ### AppFlowy
 
-vs anytype
+**vs Anytype**
 
 - Critical sync issues between desktop and mobile
 - Mobile notes can become completely empty without warning
@@ -23,14 +23,14 @@ vs anytype
 
 ### GitUI
 
-vs lazygit
+**vs LazyGit**
 
 - Requires numeric keys (1-5) to switch panels
 - Uses arrow keys instead of hjkl for navigation by default
 
 ### Neovim
 
-vs helix
+**vs Helix**
 
 - Completely unable to connect to system clipboard
 - Treesitter fails in poor network conditions, leading to subsequent freezes
@@ -39,14 +39,14 @@ vs helix
 
 ### Nushell
 
-vs fish
+**vs Fish**
 
 - No ghost text suggestions for commands
 - Focuses on structured output while neglecting basic shell interactions
 
 ### Skim
 
-vs fzf
+**vs fzf**
 
 - Performs worse than fzf in all benchmarks
 - Core design less optimized than fzf
@@ -54,7 +54,7 @@ vs fzf
 
 ### Zellij
 
-vs tmux
+**vs tmux**
 
 - Higher resource consumption
 - Lower framerate and slower key response in SSH sessions
