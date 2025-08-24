@@ -116,7 +116,6 @@ General:
 Local Only:
 
 1. pkief.material-icon-theme
-2. continue.continue
 
 Python:
 
@@ -126,13 +125,16 @@ Python:
 
 Miscellaneous:
 
+- anthropic.claude-code
 - github.codespaces
+- golang.go
 - jnoortheen.nix-ide
 - mads-hartmann.bash-ide-vscode
 - mechatroner.rainbow-csv
 - mkhl.direnv
 - ms-dotnettools.csdevkit
 - ms-vscode-remote.remote-wsl
+- rust-lang.rust-analyzer
 - tamasfe.even-better-toml
 
 #### Settings
@@ -150,10 +152,6 @@ Sync Settings Only (avoid syncing other options)
 
   "workbench.colorTheme": "Default Light Modern",
   "workbench.iconTheme": "material-icon-theme",
-  "continue.enableTabAutocomplete": false,
-  "continue.showInlineTip": false,
-  "github.copilot.editor.enableAutoCompletions": false,
-  "supermaven.otherWarning": false,
 
   "editor.cursorBlinking": "solid",
   "files.autoSave": "afterDelay",
@@ -173,10 +171,16 @@ Sync Settings Only (avoid syncing other options)
   "git.autofetch": true,
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "python.defaultInterpreterPath": ".venv/Scripts/python",
+  "python.defaultInterpreterPath": ".\\.venv\\Scripts\\python.exe",
   "jupyter.askForKernelRestart": false,
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
   },
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml"
