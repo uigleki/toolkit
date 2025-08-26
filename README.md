@@ -15,82 +15,82 @@
 
 | Category     | Software                                                           |
 | ------------ | ------------------------------------------------------------------ |
-| Input Method | [小鹤双拼方案](assets/flypy.reg)                                   |
-| Main Browser | Firefox                                                            |
-| Key Mapping  | PowerToys                                                          |
 | Cloud Sync   | MEGA                                                               |
+| Code Editor  | Visual Studio Code                                                 |
 | Compression  | 7-Zip                                                              |
 | Dir Encrypt  | Cryptomator                                                        |
-| Translation  | Crow Translate                                                     |
-| Gaming       | Steam                                                              |
-| Uninstaller  | Bulk Crap Uninstaller                                              |
 | Dir Sync     | [FreeFileSync](https://freefilesync.org/download.php)              |
-| Note Taking  | Anytype                                                            |
-| VPN Client   | Cloudflare WARP                                                    |
-| Code Editor  | Visual Studio Code                                                 |
-| Video Player | mpv.net                                                            |
-| Music Player | Clementine                                                         |
-| Torrent      | qBittorrent Enhanced                                               |
 | Downloader   | Motrix                                                             |
 | Font Render  | [MacType](https://github.com/snowie2000/mactype/releases/latest)   |
-| Phone Link   | KDEConnect                                                         |
-| Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest) |
+| Gaming       | Steam                                                              |
+| Input Method | [小鹤双拼方案](assets/flypy.reg)                                   |
+| Key Mapping  | PowerToys                                                          |
+| Main Browser | Firefox                                                            |
+| Music Player | Clementine                                                         |
 | Net Speed    | TrafficMonitor                                                     |
+| Note Taking  | Anytype                                                            |
+| Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest) |
+| Phone Link   | KDEConnect                                                         |
+| Sandbox      | Sandboxie Plus                                                     |
+| Torrent      | qBittorrent Enhanced                                               |
+| Translation  | Crow Translate                                                     |
+| Uninstaller  | Bulk Crap Uninstaller                                              |
+| VPN Client   | Cloudflare WARP                                                    |
+| Video Player | mpv.net                                                            |
 | WSL          | [Ubuntu](https://apps.microsoft.com/detail/9PDXGNCFSCZV)           |
 
 ### Android
 
 | Category          | Software             |
 | ----------------- | -------------------- |
-| Live Wallpaper    | Muzei Live Wallpaper |
-| File Manager      | MiXplorer            |
-| Music Player      | Vinyl Music Player   |
-| Weather           | Breezy Weather       |
 | 2FA               | Aegis Authenticator  |
-| Music Recognition | Shazam               |
 | Dictionary        | 欧路词典             |
+| Downloader        | Download Navi        |
+| File Manager      | MiXplorer            |
+| Live Wallpaper    | Muzei Live Wallpaper |
+| Music Player      | Vinyl Music Player   |
+| Music Recognition | Shazam               |
 | Terminal          | Termux               |
 | Torrent           | LibreTorrent         |
-| Downloader        | Download Navi        |
+| Weather           | Breezy Weather       |
 
 ### Linux
 
 | Category      | Software    |
 | ------------- | ----------- |
+| Compress Fast | lz4         |
+| Compress High | zstd        |
 | English Font  | Ubuntu font |
-| High Compress | zstd        |
-| Fast Compress | lz4         |
-| Shell         | fish        |
-| Text Editor   | helix       |
 | File Manager  | yazi        |
 | IM            | Matrix      |
+| Shell         | fish        |
+| Text Editor   | helix       |
 
 ### Browser Extensions
 
 | Category         | Extension                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------ |
 | Ad Blocking      | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)             |
-| Web Translation  | [Immersive Translate](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/) |
-| Side Translation | [Edge Translate](https://addons.mozilla.org/en-US/firefox/addon/edge_translate/)           |
-| Tab Management   | [Tab Stash](https://addons.mozilla.org/en-US/firefox/addon/tab-stash/)                     |
 | Steam            | [Augmented Steam](https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/)         |
-| Image Search     | [Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)         |
+| Tab Management   | [Tab Stash](https://addons.mozilla.org/en-US/firefox/addon/tab-stash/)                     |
+| Translation Side | [Edge Translate](https://addons.mozilla.org/en-US/firefox/addon/edge_translate/)           |
+| Translation Web  | [Immersive Translate](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/) |
 
 ### Optional
 
 | Category        | Software   |
 | --------------- | ---------- |
-| Office Suite    | OnlyOffice |
-| Boot Disk       | Ventoy     |
-| Bitmap Editor   | GIMP       |
-| Vector Editor   | Inkscape   |
-| Paint           | Krita      |
 | 3D Modeling     | Blender    |
-| Video Transcode | HandBrake  |
-| Video Editor    | Kdenlive   |
 | Audio Editor    | Audacity   |
-| Game Engine     | Godot      |
+| Bitmap Editor   | GIMP       |
+| Boot Disk       | Ventoy     |
 | Game Assistant  | WeMod      |
+| Game Engine     | Godot      |
+| Office Suite    | OnlyOffice |
+| Paint           | Krita      |
+| Vector Editor   | Inkscape   |
+| Video Editor    | Kdenlive   |
+| Video Transcode | HandBrake  |
 
 ## Dev Setup
 
