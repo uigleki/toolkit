@@ -23,6 +23,7 @@
 | Downloader   | Motrix                                                              |
 | Font Render  | [MacType](https://github.com/snowie2000/mactype/releases/latest)    |
 | Gaming       | Steam                                                               |
+| Image Viewer | ImageGlass                                                          |
 | Input Method | [小鹤双拼方案](assets/flypy.reg)                                    |
 | Key Mapping  | PowerToys                                                           |
 | Main Browser | Firefox                                                             |
