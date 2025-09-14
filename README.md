@@ -13,31 +13,31 @@
 
 ### Windows
 
-| Category     | Software                                                           |
-| ------------ | ------------------------------------------------------------------ |
-| Cloud Sync   | MEGA                                                               |
-| Code Editor  | Visual Studio Code                                                 |
-| Compression  | 7-Zip                                                              |
-| Dir Encrypt  | Cryptomator                                                        |
-| Dir Sync     | [FreeFileSync](https://freefilesync.org/download.php)              |
-| Downloader   | Motrix                                                             |
-| Font Render  | [MacType](https://github.com/snowie2000/mactype/releases/latest)   |
-| Gaming       | Steam                                                              |
-| Input Method | [小鹤双拼方案](assets/flypy.reg)                                   |
-| Key Mapping  | PowerToys                                                          |
-| Main Browser | Firefox                                                            |
-| Music Player | Clementine                                                         |
-| Net Speed    | TrafficMonitor                                                     |
-| Note Taking  | Anytype                                                            |
-| Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest) |
-| Phone Link   | KDEConnect                                                         |
-| Sandbox      | Sandboxie Plus                                                     |
-| Torrent      | qBittorrent Enhanced                                               |
-| Translation  | Crow Translate                                                     |
-| Uninstaller  | Bulk Crap Uninstaller                                              |
-| VPN Client   | Cloudflare WARP                                                    |
-| Video Player | mpv.net                                                            |
-| WSL          | [Ubuntu](https://apps.microsoft.com/detail/9PDXGNCFSCZV)           |
+| Category     | Software                                                            |
+| ------------ | ------------------------------------------------------------------- |
+| Cloud Sync   | MEGA                                                                |
+| Code Editor  | Visual Studio Code                                                  |
+| Compression  | 7-Zip                                                               |
+| Dir Encrypt  | Cryptomator                                                         |
+| Dir Sync     | [FreeFileSync](https://freefilesync.org/download.php)               |
+| Downloader   | Motrix                                                              |
+| Font Render  | [MacType](https://github.com/snowie2000/mactype/releases/latest)    |
+| Gaming       | Steam                                                               |
+| Input Method | [小鹤双拼方案](assets/flypy.reg)                                    |
+| Key Mapping  | PowerToys                                                           |
+| Main Browser | Firefox                                                             |
+| Music Player | Clementine                                                          |
+| Net Speed    | TrafficMonitor                                                      |
+| Note Taking  | Anytype                                                             |
+| Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest)  |
+| Phone Link   | KDEConnect                                                          |
+| Sandbox      | Sandboxie Plus                                                      |
+| Torrent      | qBittorrent Enhanced                                                |
+| Translation  | Crow Translate                                                      |
+| Uninstaller  | Bulk Crap Uninstaller                                               |
+| VPN Client   | Cloudflare WARP                                                     |
+| Video Player | mpv.net                                                             |
+| WSL          | [Nixos](https://github.com/nix-community/NixOS-WSL/releases/latest) |
 
 ### Android
 
