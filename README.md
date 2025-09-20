@@ -99,7 +99,7 @@
 
 ```shell
 winget install -e --id=astral-sh.uv
-uv python install 3.11
+uv python install 3.12
 ```
 
 ### VS Code
@@ -151,7 +151,7 @@ Sync Settings Only (avoid syncing other options)
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
 
-  "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "Solarized Light",
   "workbench.iconTheme": "material-icon-theme",
 
   "editor.cursorBlinking": "solid",
