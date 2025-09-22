@@ -13,32 +13,39 @@ My preferred setup and configurations
 
 ### Windows
 
-| Category     | Software                                                            |
-| ------------ | ------------------------------------------------------------------- |
-| Cloud Sync   | MEGA                                                                |
-| Code Editor  | Visual Studio Code                                                  |
-| Compression  | 7-Zip                                                               |
-| Dir Encrypt  | Cryptomator                                                         |
-| Dir Sync     | [FreeFileSync](https://freefilesync.org/download.php)               |
-| Downloader   | Motrix                                                              |
-| Font Render  | [MacType](https://github.com/snowie2000/mactype/releases/latest)    |
-| Gaming       | Steam                                                               |
-| Image Viewer | ImageGlass                                                          |
-| Input Method | [小鹤双拼方案](assets/flypy.reg)                                    |
-| Key Mapping  | PowerToys                                                           |
-| Main Browser | Firefox                                                             |
-| Music Player | Clementine                                                          |
-| Net Speed    | TrafficMonitor                                                      |
-| Note Taking  | Anytype                                                             |
-| Optimizer    | [Optimizer](https://github.com/hellzerg/optimizer/releases/latest)  |
-| Phone Link   | KDEConnect                                                          |
-| Sandbox      | Sandboxie Plus                                                      |
-| Torrent      | qBittorrent Enhanced                                                |
-| Translation  | Crow Translate                                                      |
-| Uninstaller  | Bulk Crap Uninstaller                                               |
-| VPN Client   | Cloudflare WARP                                                     |
-| Video Player | mpv.net                                                             |
-| WSL          | [Nixos](https://github.com/nix-community/NixOS-WSL/releases/latest) |
+| Category     | Software                 |
+| ------------ | ------------------------ |
+| Cloud Sync   | MEGA                     |
+| Code Editor  | Visual Studio Code       |
+| Compression  | 7-Zip                    |
+| Dir Encrypt  | Cryptomator              |
+| Dir Sync     | [FreeFileSync][freefile] |
+| Downloader   | Motrix                   |
+| Font Render  | [MacType][mactype]       |
+| Gaming       | Steam                    |
+| Image Viewer | ImageGlass               |
+| Input Method | [小鹤双拼方案][flypy]    |
+| Key Mapping  | PowerToys                |
+| Main Browser | Firefox                  |
+| Mesh Network | Tailscale                |
+| Music Player | Clementine               |
+| Net Speed    | TrafficMonitor           |
+| Note Taking  | Anytype                  |
+| Optimizer    | [Optimizer][optimizer]   |
+| Phone Link   | KDEConnect               |
+| Sandbox      | Sandboxie Plus           |
+| Torrent      | qBittorrent Enhanced     |
+| Translation  | Crow Translate           |
+| Uninstaller  | Bulk Crap Uninstaller    |
+| VPN Client   | Cloudflare WARP          |
+| Video Player | mpv.net                  |
+| WSL          | [Nixos][nixos]           |
+
+[freefile]: https://freefilesync.org/download.php
+[mactype]: https://github.com/snowie2000/mactype/releases/latest
+[flypy]: assets/flypy.reg
+[optimizer]: https://github.com/hellzerg/optimizer/releases/latest
+[nixos]: https://github.com/nix-community/NixOS-WSL/releases/latest
 
 ### Android
 
@@ -69,13 +76,19 @@ My preferred setup and configurations
 
 ### Browser Extensions
 
-| Category         | Extension                                                                                  |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| Ad Blocking      | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)             |
-| Steam            | [Augmented Steam](https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/)         |
-| Tab Management   | [Tab Stash](https://addons.mozilla.org/en-US/firefox/addon/tab-stash/)                     |
-| Translation Side | [Edge Translate](https://addons.mozilla.org/en-US/firefox/addon/edge_translate/)           |
-| Translation Web  | [Immersive Translate](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/) |
+| Category         | Extension                      |
+| ---------------- | ------------------------------ |
+| Ad Blocking      | [uBlock Origin][ublock]        |
+| Steam            | [Augmented Steam][augsteam]    |
+| Tab Management   | [Tab Stash][tabstash]          |
+| Translation Side | [Edge Translate][edgetrans]    |
+| Translation Web  | [Immersive Translate][imtrans] |
+
+[ublock]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+[augsteam]: https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/
+[tabstash]: https://addons.mozilla.org/en-US/firefox/addon/tab-stash/
+[edgetrans]: https://addons.mozilla.org/en-US/firefox/addon/edge_translate/
+[imtrans]: https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/
 
 ### Optional
 
