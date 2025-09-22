@@ -1,8 +1,8 @@
 # toolkit
 
-🛠️ My preferred setup and configurations
+My preferred setup and configurations
 
-## ✨ Features
+## Features
 
 - Open source first, privacy focused
 - Simple yet powerful configurations
@@ -224,6 +224,6 @@ save-position-on-quit=yes
   - Privacy
     - All except Enhance Privacy
 
-## 📄 License
+## License
 
 [CC BY-SA 4.0](LICENSE)
