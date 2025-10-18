@@ -56,9 +56,8 @@ My preferred setup and configurations
 | Downloader        | Download Navi        |
 | File Manager      | MiXplorer            |
 | Live Wallpaper    | Muzei Live Wallpaper |
-| Music Player      | Vinyl Music Player   |
+| Music Player      | Gramophone           |
 | Music Recognition | Shazam               |
-| Terminal          | Termux               |
 | Torrent           | LibreTorrent         |
 | Weather           | Breezy Weather       |
 
@@ -70,7 +69,6 @@ My preferred setup and configurations
 | Compress High | zstd        |
 | English Font  | Ubuntu font |
 | File Manager  | yazi        |
-| IM            | Matrix      |
 | Shell         | fish        |
 | Text Editor   | helix       |
 
