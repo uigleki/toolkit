@@ -113,7 +113,7 @@ powershell -c "irm astral.sh/uv/install.ps1 | iex"
 uv python install 3.12
 ```
 
-### VS Code Extensions
+### Code OSS Extensions
 
 General:
 
@@ -121,6 +121,11 @@ General:
 - tyriar.sort-lines
 - usernamehw.errorlens
 - yzhang.markdown-all-in-one
+
+Nix:
+
+- jnoortheen.nix-ide
+- mkhl.direnv
 
 Python:
 
@@ -130,11 +135,12 @@ Python:
 
 Miscellaneous:
 
+- Dart-Code.flutter
 - golang.go
-- jnoortheen.nix-ide
 - mads-hartmann.bash-ide-vscode
 - mechatroner.rainbow-csv
-- mkhl.direnv
+- ms-vscode.powershell
+- muhammad-sammy.csharp
 - rust-lang.rust-analyzer
 - tamasfe.even-better-toml
 
@@ -142,7 +148,7 @@ Miscellaneous:
 
 - [flypy.reg](configs/flypy.reg) - 小鹤双拼输入法方案
 - [mpv.conf](configs/mpv.conf) - mpv media player settings
-- [vscode-settings.json](configs/vscode-settings.json) - VS Code settings
+- [vscode-settings.json](configs/vscode-settings.json) - Code OSS settings
 
 ### Windows Optimizer
 

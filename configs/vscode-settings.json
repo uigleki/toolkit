@@ -28,11 +28,20 @@
 
   "git.autofetch": true,
 
+  "[csharp]": {
+    "editor.defaultFormatter": "muhammad-sammy.csharp"
+  },
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.flutter"
+  },
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
   "[nix]": {
     "editor.defaultFormatter": "jnoortheen.nix-ide"
+  },
+  "[powershell]": {
+    "editor.defaultFormatter": "ms-vscode.powershell"
   },
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
