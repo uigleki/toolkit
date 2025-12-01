@@ -32,7 +32,7 @@
     "editor.defaultFormatter": "muhammad-sammy.csharp"
   },
   "[dart]": {
-    "editor.defaultFormatter": "Dart-Code.flutter"
+    "editor.defaultFormatter": "Dart-Code.dart-code"
   },
   "[go]": {
     "editor.defaultFormatter": "golang.go"
