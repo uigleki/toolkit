@@ -1,5 +1,6 @@
 {
-  "workbench.colorTheme": "Solarized Light",
+  "workbench.colorTheme": "Catppuccin Latte",
+  "workbench.iconTheme": "catppuccin-latte",
   "editor.rulers": [80, 120],
   "git.confirmSync": false,
   "git.enableSmartCommit": true,

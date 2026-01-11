@@ -122,6 +122,7 @@ General:
 
 - DavidAnson.vscode-markdownlint
 - Tyriar.sort-lines
+- catppuccin.catppuccin-vsc-pack
 - prettier.prettier-vscode
 - usernamehw.errorlens
 - yzhang.markdown-all-in-one
