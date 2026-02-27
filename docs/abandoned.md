@@ -4,11 +4,13 @@ Documenting specific issues with abandoned tools to prevent future reconsiderati
 
 ## Desktop
 
-### Logseq
+### Anytype
 
-- Orphaned images remain after page deletion
-- No built-in way to detect or clean orphaned media files
-- Manual cleanup required for deleted page attachments
+vs Markdown
+
+- Cannot copy content to AI due to proprietary format
+- Cannot paste AI output back without format loss
+- Markdown enables seamless bidirectional AI interaction
 
 ### AppFlowy
 
@@ -18,6 +20,12 @@ vs Anytype
 - Mobile notes can become completely empty without warning
 - Data recovery depends on desktop version availability
 - Previously documented iOS sync issues remain unfixed
+
+### Logseq
+
+- Orphaned images remain after page deletion
+- No built-in way to detect or clean orphaned media files
+- Manual cleanup required for deleted page attachments
 
 ## Terminal
 

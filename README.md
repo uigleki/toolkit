@@ -11,41 +11,26 @@ My preferred setup and configurations
 
 ## Software List
 
-### Windows
+### Linux
 
 | Category     | Software                 |
 | ------------ | ------------------------ |
-| Cloud Sync   | MEGA                     |
+| Browser      | Firefox                  |
 | Code Editor  | Visual Studio Code       |
-| Compression  | 7-Zip                    |
 | Dir Encrypt  | Cryptomator              |
 | Dir Sync     | [FreeFileSync][freefile] |
 | Downloader   | Motrix                   |
-| Font Render  | [MacType][mactype]       |
+| English Font | Ubuntu font              |
 | Gaming       | Steam                    |
-| Image Viewer | ImageGlass               |
-| Input Method | [小鹤双拼方案][flypy]    |
-| Key Mapping  | PowerToys                |
-| Main Browser | Firefox                  |
+| Input Method | 小鹤双拼 (fcitx5)        |
 | Mesh Network | Tailscale                |
-| Music Player | Clementine               |
-| Net Speed    | TrafficMonitor           |
-| Note Taking  | Anytype                  |
-| Optimizer    | [Optimizer][optimizer]   |
+| Music Player | Elisa                    |
 | Phone Link   | KDEConnect               |
-| Sandbox      | Sandboxie Plus           |
+| Text Editor  | helix                    |
 | Torrent      | qBittorrent Enhanced     |
-| Translation  | Crow Translate           |
-| Uninstaller  | Bulk Crap Uninstaller    |
-| VPN Client   | Cloudflare WARP          |
-| Video Player | mpv.net                  |
-| WSL          | [Nixos][nixos]           |
+| Video Player | mpv                      |
 
 [freefile]: https://freefilesync.org/download.php
-[mactype]: https://github.com/snowie2000/mactype/releases/latest
-[flypy]: configs/flypy.reg
-[optimizer]: https://github.com/hellzerg/optimizer/releases/latest
-[nixos]: https://github.com/nix-community/NixOS-WSL/releases/latest
 
 ### Android
 
@@ -57,38 +42,47 @@ My preferred setup and configurations
 | FOSS              | F-Droid                  |
 | File Manager      | MiXplorer                |
 | Live Wallpaper    | Muzei Live Wallpaper     |
+| Markdown Editor   | Markor                   |
 | Music Player      | Gramophone               |
 | Music Recognition | Shazam                   |
+| Outdoor Tools     | Trail Sense              |
 | Torrent           | LibreTorrent             |
 | Weather           | [Breezy Weather][breezy] |
 
 [breezy]: https://breezy-weather.github.io/fdroid-repo/fdroid/repo
 
-### Linux
+### Windows
 
-| Category      | Software    |
-| ------------- | ----------- |
-| Compress Fast | lz4         |
-| Compress High | zstd        |
-| English Font  | Ubuntu font |
-| File Manager  | yazi        |
-| Shell         | fish        |
-| Text Editor   | helix       |
+| Category     | Software               |
+| ------------ | ---------------------- |
+| Compression  | 7-Zip                  |
+| Image Viewer | ImageGlass             |
+| Input Method | [小鹤双拼方案][flypy]  |
+| Key Mapping  | PowerToys              |
+| Net Speed    | TrafficMonitor         |
+| Optimizer    | [Optimizer][optimizer] |
+| Sandbox      | Sandboxie Plus         |
+| Uninstaller  | Bulk Crap Uninstaller  |
+| VPN Client   | Cloudflare WARP        |
+| Video Player | mpv.net                |
+| WSL          | [NixOS][nixos]         |
+
+[flypy]: configs/flypy.reg
+[optimizer]: https://github.com/hellzerg/optimizer/releases/latest
+[nixos]: https://github.com/nix-community/NixOS-WSL/releases/latest
 
 ### Browser Extensions
 
-| Category         | Extension                      |
-| ---------------- | ------------------------------ |
-| Ad Blocking      | [uBlock Origin][ublock]        |
-| Steam            | [Augmented Steam][augsteam]    |
-| Tab Management   | [Tab Stash][tabstash]          |
-| Translation Side | [Edge Translate][edgetrans]    |
-| Translation Web  | [Immersive Translate][imtrans] |
+| Category        | Extension                      |
+| --------------- | ------------------------------ |
+| Ad Blocking     | [uBlock Origin][ublock]        |
+| Steam           | [Augmented Steam][augsteam]    |
+| Tab Management  | [Tab Stash][tabstash]          |
+| Translation Web | [Immersive Translate][imtrans] |
 
 [ublock]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 [augsteam]: https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/
 [tabstash]: https://addons.mozilla.org/en-US/firefox/addon/tab-stash/
-[edgetrans]: https://addons.mozilla.org/en-US/firefox/addon/edge_translate/
 [imtrans]: https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/
 
 ### Optional
@@ -108,13 +102,6 @@ My preferred setup and configurations
 | Video Transcode | HandBrake  |
 
 ## Dev Setup
-
-### Python
-
-```powershell
-powershell -c "irm astral.sh/uv/install.ps1 | iex"
-uv python install 3.12
-```
 
 ### Code OSS Extensions
 
@@ -151,9 +138,9 @@ Miscellaneous:
 
 ## App Config
 
-- [flypy.reg](configs/flypy.reg) - 小鹤双拼输入法方案
 - [mpv.conf](configs/mpv.conf) - mpv media player settings
 - [vscode-settings.json](configs/vscode-settings.json) - Code OSS settings
+- [flypy.reg](configs/flypy.reg) - 小鹤双拼输入法方案 (Windows)
 
 ### Windows Optimizer
 
